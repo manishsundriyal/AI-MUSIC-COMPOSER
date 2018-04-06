@@ -6,9 +6,9 @@ A project that trains a LSTM recurrent neural network over a dataset of MIDI fil
 
 # Dependencies
 
-pip install numpy
-pip install keras
-pip install python-midi
+`pip install numpy`
+`pip install keras`
+`pip install python-midi`
 
 
 # Basic Usage
