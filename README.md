@@ -13,7 +13,7 @@ pip install python-midi
 
 # Basic Usage
 
-'python music.py'
+`python music.py`
 
 
 # Bugs
